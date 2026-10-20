@@ -1,0 +1,21 @@
+{
+  "cohort_caps": {
+    "finetune": 30,
+    "learn": 100,
+    "test": 30
+  },
+  "cohort_seeds": {
+    "finetune": 43,
+    "learn": 42,
+    "test": 44
+  },
+  "packages": {
+    "joblib": "1.6.0",
+    "lightgbm": "4.7.0",
+    "numpy": "2.5.3",
+    "pandas": "2.3.3",
+    "scikit-learn": "1.9.1",
+    "xgboost": "3.4.1"
+  },
+  "python": "3.14.7"
+}

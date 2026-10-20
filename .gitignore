@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.DS_Store
+data/raw/
+data/reproduction_cleaned/
+data/cleaned/*
+!data/cleaned/customer_metadata.csv
+!data/cleaned/preparation_manifest.json
+multihorizon_outputs/predictions.csv
+multihorizon_outputs/predictions_wide.csv
+multihorizon_outputs/*.restoring-*
+reproduction_outputs/

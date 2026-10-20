@@ -1,0 +1,17 @@
+{
+  "completed_utc": "2026-10-20T12:50:04.624325+00:00",
+  "horizons": [
+    "1h",
+    "3d",
+    "1w"
+  ],
+  "input_sha256": {
+    "finetune": "fb4acf9bd24f443f325d83d38740292b1ce9962ff264f97bb4d64f01a508dc93",
+    "learn": "39360abf8d00dcfd87c5dfc17b716bebe9f689e3d4a971afa8f6cfc187cb8212",
+    "test": "e508219f4a385a22582f01dff6233e07f7cabe017178644882b4f4cf91da6ac8"
+  },
+  "settings_sha256": "c3555a4990b4f1ab5a6bc6933827f3e40ac246cc9635ee5371e6f62b9f1c51f4",
+  "test_buildings": 30,
+  "test_file": "data/cleaned/data_test.csv",
+  "warning": "Started and completed markers prevent accidental repeated final evaluation."
+}

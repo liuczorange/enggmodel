@@ -1,0 +1,9 @@
+{
+  "horizons": [
+    "1h",
+    "3d",
+    "1w"
+  ],
+  "started_utc": "2026-10-20T12:45:47.760727+00:00",
+  "warning": "Test access started; do not delete this marker to rerun after seeing test data."
+}

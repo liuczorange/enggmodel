@@ -1,0 +1,7 @@
+split,feature,comparable_rows,matching_rows,match_rate,max_absolute_difference
+learn,lag_1h,1718100,1718100,1.0,0.0
+learn,lag_3d,1703900,1703900,1.0,0.0
+learn,lag_1w,1684700,1684700,1.0,0.0
+finetune,lag_1h,515430,515430,1.0,0.0
+finetune,lag_3d,511170,511170,1.0,0.0
+finetune,lag_1w,505410,505410,1.0,0.0

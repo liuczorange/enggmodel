@@ -1,0 +1,17 @@
+{
+  "checked_utc": "2026-10-20T13:56:35.482775+00:00",
+  "results_rows": 9,
+  "wide_prediction_rows": 1455750,
+  "long_prediction_rows": 4367250,
+  "tested_households": 30,
+  "all_checks_passed": true,
+  "note": "Metrics recomputed from saved forecasts only; no source test file or fitted model was opened.",
+  "prediction_dtype_note": "XGBoost's wide-column forecasts are restored as float32 to match their original model output; the canonical long file stores the full promoted values.",
+  "artifact_sha256": {
+    "results.csv": "3692760ab65f0d9eee59f6749b9da8a72f30f7872ad5d07100e6d4a5d9dcb516",
+    "per_building_metrics.csv": "7b4469bf8163dca00a17f76fde853955045af3407b03629ec1e4912635bc7c56",
+    "predictions_wide.csv": "65c5ac03b600d92a08a845a094b85939e912b21ca50b1dd87dabce9e7faaf31e",
+    "predictions.csv": "7878f2b526c4726859c520067f28ee801d18a194ff6cf580a26b96429dd102e0",
+    "selected_settings.json": "c3555a4990b4f1ab5a6bc6933827f3e40ac246cc9635ee5371e6f62b9f1c51f4"
+  }
+}
